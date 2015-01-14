@@ -1,4 +1,4 @@
-package fi.solita.rtsp.web.controllers.statistics;
+package dataurl;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
